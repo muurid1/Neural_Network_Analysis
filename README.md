@@ -76,10 +76,24 @@ Optimization of  the model in order to achieve a target predictive accuracy high
 
 ##### Second_Attempt: Adjustement of the amount of neurons and layers
 
-<img width="640" alt="Screen Shot 2022-11-06 at 12 18 04 PM" src="https://user-images.githubusercontent.com/107282754/200188601-e55aabe4-1888-47a7-97a0-de9f94d0b3f8.png">
+• layer 1 : 80
+
+• layer 2 : 60 
+
+• layer 3 was added with the activation of "relu"
+
+<img width="971" alt="Screen Shot 2022-11-06 at 1 01 43 PM" src="https://user-images.githubusercontent.com/107282754/200189891-e9cbbf48-3b03-4497-bec0-c81c81bc0fc1.png">
+
 
 ##### Third_Attempt: Change of the output layer from "sigmoid" to "tanh"
 
-<img width="640" alt="Screen Shot 2022-11-06 at 12 18 04 PM" src="https://user-images.githubusercontent.com/107282754/200188923-cbf55c9e-e2dc-4c8c-9740-7323ecd095fa.png">
+<img width="899" alt="Screen Shot 2022-11-06 at 12 45 56 PM" src="https://user-images.githubusercontent.com/107282754/200189261-6fb26323-77b6-4052-8995-ecd608c6ff43.png">
 
 ## Summary
+
+Overall, by increasing the accuracy above 75% we are able to correctly classify each of the points in the test data 75% of the time. And, an applicant has a 80% chance of being successful if they have the following:
+
+The NAME of the applicant appears more than 5 times (they have applied more than 5 times)
+The type of APPLICATION is one of the following; T3, T4, T5, T6, T7, T8, T10, and T19
+The application has the following CLASSIFICATION; C1000, C2000, C3000, C1200, and C2100.
+A good model to recommend is the Random Forest model because Random Forest are good for classification problems. Using this model produces a 78% accuracy.
