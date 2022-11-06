@@ -67,3 +67,19 @@ Yes
 • the usage of the "sigmoid" activation function for the 2nd and 3rd layer.
 
 ### Optimize the Model
+
+Optimization of  the model in order to achieve a target predictive accuracy higher than 75%
+
+##### First_Attempt: Remove "SPECIAL_CONSIDERATIONS" from the dataset
+
+<img width="640" alt="Screen Shot 2022-11-06 at 12 18 04 PM" src="https://user-images.githubusercontent.com/107282754/200188011-a76454b6-2aa5-4e45-95f1-31b94c55cb4c.png">
+
+##### Second_Attempt: Adjustement of the amount of neurons and layers
+
+<img width="640" alt="Screen Shot 2022-11-06 at 12 18 04 PM" src="https://user-images.githubusercontent.com/107282754/200188601-e55aabe4-1888-47a7-97a0-de9f94d0b3f8.png">
+
+##### Third_Attempt: Change of the output layer from "sigmoid" to "tanh"
+
+<img width="640" alt="Screen Shot 2022-11-06 at 12 18 04 PM" src="https://user-images.githubusercontent.com/107282754/200188923-cbf55c9e-e2dc-4c8c-9740-7323ecd095fa.png">
+
+## Summary
