@@ -76,18 +76,15 @@ Optimization of  the model in order to achieve a target predictive accuracy high
 
 ##### Second_Attempt: Adjustement of the amount of neurons and layers
 
+##### Third_Attempt: Change of the output layer from "sigmoid" to "tanh"
+
 • layer 1 : 80
 
 • layer 2 : 60 
 
 • layer 3 was added with the activation of "relu"
 
-<img width="971" alt="Screen Shot 2022-11-06 at 1 01 43 PM" src="https://user-images.githubusercontent.com/107282754/200189891-e9cbbf48-3b03-4497-bec0-c81c81bc0fc1.png">
-
-
-##### Third_Attempt: Change of the output layer from "sigmoid" to "tanh"
-
-<img width="899" alt="Screen Shot 2022-11-06 at 12 45 56 PM" src="https://user-images.githubusercontent.com/107282754/200189261-6fb26323-77b6-4052-8995-ecd608c6ff43.png">
+<img width="912" alt="Screen Shot 2022-11-06 at 1 06 52 PM" src="https://user-images.githubusercontent.com/107282754/200190092-f1c1b7c1-84cb-4ac2-ae22-50719d7d5f07.png">
 
 ## Summary
 
