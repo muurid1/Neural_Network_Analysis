@@ -72,7 +72,7 @@ Optimization of  the model in order to achieve a target predictive accuracy high
 
 ##### First_Attempt: Remove "SPECIAL_CONSIDERATIONS" from the dataset
 
-<img width="640" alt="Screen Shot 2022-11-06 at 12 18 04 PM" src="https://user-images.githubusercontent.com/107282754/200188011-a76454b6-2aa5-4e45-95f1-31b94c55cb4c.png">
+<img width="1027" alt="Screen Shot 2022-11-06 at 1 10 38 PM" src="https://user-images.githubusercontent.com/107282754/200190284-e9fd05f8-9df5-495a-865b-6f1471c0f466.png">
 
 ##### Second_Attempt: Adjustement of the amount of neurons and layers
 
