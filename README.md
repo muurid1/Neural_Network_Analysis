@@ -52,8 +52,18 @@ We have designed a neural network, or deep learning model, using Tensorflow in o
 
 ##### How many neurons, layers, and and activation functions did you select for your neural network model, and why?
 
+This model have three (3) hidden layers with many neurons for each because it seems to increase the accuracy above 75%.
 
+##### Were you able to achieve the target model performance? 
 
+Yes
 
+##### What steps did you take to try and increase model performance?
+
+• the conversion of the NAME column into data points, which has the biggest impact on improving efficiency
+
+• the addition of a third layer and 
+
+• the usage of the "sigmoid" activation function for the 2nd and 3rd layer.
 
 ### Optimize the Model
