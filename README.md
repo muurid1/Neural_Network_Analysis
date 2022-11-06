@@ -42,4 +42,18 @@ The employer Identification Number (EIN), the SPECIAL_CONSIDERATIONS and the STA
 
 We have designed a neural network, or deep learning model, using Tensorflow in order to create a binary classification model that can predict if an Alphabet Soup–funded organization will be successful based on the features in the dataset. We will figure out the amount of inputs there are and then determine the number of neurons and layers in the  model. Finally, we will compile, train, and evaluate the binary classification model to calculate the model’s loss and accuracy.
 
+#### Neural network model with the number of input features and nodes for each layer using Tensorflow Keras.
+
+<img width="887" alt="Screen Shot 2022-10-31 at 10 04 51 PM" src="https://user-images.githubusercontent.com/107282754/200186336-9cf99f30-e442-4f12-a74e-691517146475.png">
+
+#### Evaluation of the model using the test data
+
+<img width="745" alt="Screen Shot 2022-11-06 at 11 47 09 AM" src="https://user-images.githubusercontent.com/107282754/200186511-2797e0b8-3df8-4209-8145-c87a2834d12a.png">
+
+##### How many neurons, layers, and and activation functions did you select for your neural network model, and why?
+
+
+
+
+
 ### Optimize the Model
